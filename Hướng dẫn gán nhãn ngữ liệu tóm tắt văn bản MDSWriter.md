@@ -1,14 +1,14 @@
 1. Web gán nhãn ngữ liệu: http://tinclc.com:8080/mdswriter/ 
 2. Account đăng nhập: tên/tên (VD: nhi/nhi)
 3. Chỉ gán nhãn các cluster được phân công
-4. Deadline: mỗi ngày 2 cluster, tổng kết vào thứ 5 hàng tuần  
+4. Deadline: mỗi ngày 2 cluster, tổng kết vào thứ 5 hàng tuần
 5. Phải làm các bước theo thứ tự 1-7, ký hiệu trên Dashboard:
  - "X": chưa làm bước này được
  - "O": đang làm bước này
- - "V": đã xong   
-Xong 1 bước chọn: 
-  - "Next step": qua thẳng bước tiếp  
-  - hoặc "Step complete": quay lại Dashboard
+ - "V": đã xong
+   Xong 1 bước chọn:
+    - "Next step": qua thẳng bước tiếp  
+    - hoặc "Step complete": quay lại Dashboard
 
 6. Các bước thực hiện như sau:
 
