@@ -5,17 +5,18 @@
 5. Phải làm các bước theo thứ tự 1-7, ký hiệu trên Dashboard:
  - "X": chưa làm bước này được
  - "O": đang làm bước này
- - "V": đã xong
-Xong 1 bước chọn: 
- - "Next step": qua thẳng bước tiếp
- - hoặc "Step complete": quay lại Dashboard
+ - "V": đã xong  
+    Xong 1 bước chọn:
+    - "Next step": qua thẳng bước tiếp  
+    - hoặc "Step complete": quay lại Dashboard
+
 6. Các bước thực hiện như sau:
 
 S1: Chọn câu quan trọng: 
  - Đọc các bài báo (5-10 bài) : click vào thanh sổ chọn bài
  - Mỗi bài chọn các câu quan trọng: double-click vào để chọn, double-click vào lần nữa bỏ chọn
- - Có thể không chọn câu nào trong bài nếu bài đó không liên quan đến chủ đề của cluster đó
- NOTE: nên đọc hết tất cả bài trong cluster -> list ý chính -> quay lại chọn câu trong từng bài
+ - Có thể không chọn câu nào trong bài nếu bài đó không liên quan đến chủ đề của cluster đó  
+   NOTE: nên đọc hết tất cả bài trong cluster -> list ý chính -> quay lại chọn câu trong từng bài  
  - 2 chức năng Merge và Split dùng khi thấy bài báo chia câu sai:
   + Merge: nối 2 câu liên tiếp. Chọn câu thứ 1 trong 2 câu muốn nối -> click chuột phải -> Merge
   + Split: chia 1 câu thành nhiều câu riêng biệt. Click chuột phải vào câu cần chia -> Split -> hiện khung edit -> Enter  tại vị trí cần tách (mỗi câu nằm 1 đoạn)
@@ -23,8 +24,8 @@ S1: Chọn câu quan trọng:
 S2: Phân nhóm:
 - Click "New group" -> đặt tên nhóm (tên nhóm không được là chuỗi rỗng) -> Enter
 - Chuột trái vào câu cần phân nhóm -> chọn nhóm -> Enter
-- Hoặc chọn số nhóm -> "Auto group" -> chỉnh sửa nếu phân nhóm tự động sai
-Note: những câu nằm ngoài không thuộc nhóm nào xem như không được chọn và sẽ mất ở bước sau
+- Hoặc chọn số nhóm -> "Auto group" -> chỉnh sửa nếu phân nhóm tự động sai  
+   NOTE: những câu nằm ngoài không thuộc nhóm nào xem như không được chọn và sẽ mất ở bước sau
 
 S3: Chọn câu tốt nhất cho mỗi nhóm: 
 - Click -> click câu khác nếu thấy câu đó chưa tốt
