@@ -1,4 +1,4 @@
-1. Web đánh ngữ liệu: http://tinclc.com:8080/mdswriter/ 
+1. Web gán nhãn ngữ liệu: http://tinclc.com:8080/mdswriter/ 
 2. Account đăng nhập: tên/tên (VD: nhi/nhi)
 3. Chỉ gán nhãn các cluster được phân công
 4. Deadline: mỗi ngày 2 cluster, tổng kết vào thứ 5 hàng tuần
