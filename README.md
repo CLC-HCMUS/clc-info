@@ -19,8 +19,8 @@ Yêu cầu cho slide báo cáo:
 5. Buổi reading chiều thứ 5 hàng tuần (bắt đầu từ 14/04/2016) sẽ chuyển sang chủ đề viết bài báo khoa học. Cụ thể hơn, là khóa học Writing in the Sciences. Tham dự buổi reading này là bắt buộc đối với các bạn muốn viết paper.
 
 6. Buổi meeting nhóm hàng tuần sẽ vẫn giữ thời gian cũ, và chỉ chọn 1-3 bạn thuyết trình (về bài toán mình đang làm, ~20 phút) cho cả nhóm nghe, hiểu và góp ý. Tổng thời gian buổi này khoảng 1h30 phút. Các nhóm nhỏ (làm về vấn đề cụ thể) sẽ meeting riêng. Cụ thể chia các nhóm nhỏ như sau (thời gian sẽ thống nhất với từng nhóm nhỏ, có thể trong ngày thứ 5 hoặc ngày khác):
-  - Nhóm summarization: Giàu, Nhi, Dũng, nhóm của LVThắng
+  - Nhóm summarization: Giàu, Nhi, Dũng, Tùng
   - Nhóm clustering: Phong, Long
-  - Nhóm sentiment: Đại, Quang, Vinh
+  - Nhóm sentiment: Vinh
 
 Mọi thông tin liên hệ: thaonhitt2005@gmail.com
