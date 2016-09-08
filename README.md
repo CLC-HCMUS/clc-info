@@ -9,10 +9,10 @@ LƯU Ý 2: MỌI NGƯỜI TỰ BACKUP PHẦN FOLDER CỦA MÌNH ĐỂ ĐỀ PHÒ
 
 2. Mỗi thành viên phải hoàn thành report cuối tháng (thứ 5 tuần cuối của tháng).  
 Quy định report:  
-- Viết bằng latex
-- Trình bày các công việc đã hoàn thành trong tháng
-- Kế hoạch cho tháng kế tiếp
-- Mẫu báo cáo nằm trong cùng repository này (20151210.zip)
+  - Viết bằng latex
+  - Trình bày các công việc đã hoàn thành trong tháng
+  - Kế hoạch cho tháng kế tiếp
+  - Mẫu báo cáo nằm trong cùng repository này (20151210.zip)
 
 3. Yêu cầu tất cả các bạn dù làm ít hay làm nhiều đều trình bày (slide) trong buổi meeting nhóm, không nhất thiết phải xong, chỉ cần báo cáo tiến độ.  
 Báo cáo gồm báo cáo thuyết trình dài hoặc báo cáo ngắn như mục 6.  
