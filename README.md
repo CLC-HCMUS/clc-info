@@ -3,7 +3,9 @@
 ###Các quy định
 
 1. Trước buổi meeting nhóm, các bạn hoàn thiện BÁO CÁO theo mẫu, điền TIME TRACKING và chép vào thư mục tương ứng của mình trong Dropbox (theo từng tuần).  
-Bạn nào không update folder báo cáo trên Dropbox trước 8:30 thứ năm hàng tuần sẽ nộp 40K vào quỹ.
+Bạn nào không update folder báo cáo trên Dropbox trước 8:30 thứ năm hàng tuần sẽ nộp 40K vào quỹ.  
+LƯU Ý: KHÔNG ĐƯỢC XÓA, SỬA FOLDER CỦA NGƯỜI KHÁC.  
+LƯU Ý 2: MỌI NGƯỜI TỰ BACKUP PHẦN FOLDER CỦA MÌNH ĐỂ ĐỀ PHÒNG CÁC TRƯỜNG HỢP MẤT MÁT DỮ LIỆU.
 
 2. Yêu cầu tất cả các bạn dù làm ít hay làm nhiều đều trình bày (slide) trong buổi meeting nhóm, không nhất thiết phải xong, chỉ cần báo cáo tiến độ.  
 Báo cáo gồm báo cáo thuyết trình dài hoặc báo cáo ngắn như mục 6.  
