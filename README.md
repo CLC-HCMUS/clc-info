@@ -14,13 +14,14 @@ Quy định report:
   - Kế hoạch cho tháng kế tiếp
   - Mẫu báo cáo nằm trong cùng repository này (20151210.zip)
 
-3. Yêu cầu tất cả các bạn dù làm ít hay làm nhiều đều trình bày (slide) trong buổi meeting nhóm, không nhất thiết phải xong, chỉ cần báo cáo tiến độ.  
-Báo cáo gồm báo cáo thuyết trình dài hoặc báo cáo ngắn như mục 6.  
-Yêu cầu cho slide thuyết trình dài (~20'):
+3. Yêu cầu tất cả các bạn dù làm ít hay làm nhiều đều báo cáo tiến độ.  
+Yêu cầu cho slide thuyết trình dài (~20'), vi phạm phạt 2k/lỗi:
   - Tên người báo cáo
   - Viết lại các công thức
   - Slide kết luân
   - Thí nghiệm phải có control (baseline)
+  - Slide có số trang
+  - Không lỗi chính tả
 
 4. Thời gian meeting cố định hàng tuần là 8:30~ tại I63.  
 Bạn nào đến trễ mà không báo trước (1 ngày) sẽ phạt mỗi phút trễ là 2,000VND (không ngoại lệ bất kì ai, nghỉ thì phạt trọn gói 40K VND, GV phạt gấp đôi).
