@@ -10,6 +10,7 @@
 Bạn nào không có TRACKING hoặc REPORT trên Dropbox trước 8:30 thứ năm hàng tuần sẽ nộp 20K/mỗi cái vào quỹ.  
 LƯU Ý: KHÔNG ĐƯỢC XÓA, SỬA FOLDER CỦA NGƯỜI KHÁC.  
 LƯU Ý 2: MỌI NGƯỜI TỰ BACKUP PHẦN FOLDER CỦA MÌNH ĐỂ ĐỀ PHÒNG CÁC TRƯỜNG HỢP MẤT MÁT DỮ LIỆU.
+
 3. Yêu cầu cho slide thuyết trình:
   - Tên người báo cáo
   - Không được chụp hình công thức, bảng biểu
