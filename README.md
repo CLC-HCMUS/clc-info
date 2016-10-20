@@ -6,7 +6,7 @@
   - TIME TRACKING (không được ước lượng để điền vào mà phải tracking) và chép vào thư mục tương ứng của mình trong Dropbox (theo từng tuần).
   - REPORT (ngắn, gạch đầu dòng) về các việc đã hoàn thành trong tuần (so sánh với dự định đã viết tuần trước), các việc dự định làm trong tuần tới, các khó khăn vướng mắc nếu có.
   - Cuối mỗi tháng ngoài báo cáo tuần còn phải có một báo cáo tương tự cho toàn tháng. 
-  
+
 Bạn nào không có TRACKING hoặc REPORT trên Dropbox trước 8:30 thứ năm hàng tuần sẽ nộp 20K/mỗi cái vào quỹ.  
 LƯU Ý: KHÔNG ĐƯỢC XÓA, SỬA FOLDER CỦA NGƯỜI KHÁC.  
 LƯU Ý 2: MỌI NGƯỜI TỰ BACKUP PHẦN FOLDER CỦA MÌNH ĐỂ ĐỀ PHÒNG CÁC TRƯỜNG HỢP MẤT MÁT DỮ LIỆU.
